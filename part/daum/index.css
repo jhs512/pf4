@@ -405,7 +405,7 @@ html.side-bar-actived .top-bar {
     border-bottom: 1px solid rgba(0, 0, 0, 0);
 }
 
-.top-bar .logo>img {
+.top-bar .logo>img:last-child {
     transition: opacity .5s;
     margin-bottom: 15px;
 }
